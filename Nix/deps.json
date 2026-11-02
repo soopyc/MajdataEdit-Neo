@@ -100,6 +100,11 @@
     "hash": "sha256-oRNrlF1/yK0QvrW2+48RsmSg9h9/pDIfA56/bpoHXFU="
   },
   {
+    "pname": "Fonts.Avalonia.CascadiaCode",
+    "version": "0.14.0",
+    "hash": "sha256-Rdvhi3+rzTX/xVbXeBfxcV1fJ2p9BgwCOXBu43RWfKc="
+  },
+  {
     "pname": "HarfBuzzSharp",
     "version": "7.3.0.3",
     "hash": "sha256-1vDIcG1aVwVABOfzV09eAAbZLFJqibip9LaIx5k+JxM="

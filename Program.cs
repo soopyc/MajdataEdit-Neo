@@ -1,5 +1,6 @@
 ﻿using Avalonia;
 using System;
+using Fonts.Avalonia.CascadiaCode;
 
 namespace MajdataEdit_Neo;
 
@@ -17,5 +18,6 @@ sealed class Program
         => AppBuilder.Configure<App>()
             .UsePlatformDetect()
             .WithInterFont()
+            .WithCascadiaCodeFont()
             .LogToTrace();
 }

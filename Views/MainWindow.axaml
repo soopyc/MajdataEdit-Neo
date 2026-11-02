@@ -140,7 +140,7 @@
                                Document="{Binding FumenDocument}"
                                Name="Editor" BorderBrush="#50FFFFFF" BorderThickness="0.5"
                                ShowLineNumbers="True" Margin="5 5 5 5" Padding="5" WordWrap="False"
-                               FontFamily="Cascadia Code,Consolas,Menlo,Monospace"
+                               FontFamily="fonts:CascadiaCode#Cascadia Code,Consolas,Menlo,Monospace"
                             >
         <AvaloniaEdit:TextEditor.ContextFlyout>
           <MenuFlyout>
